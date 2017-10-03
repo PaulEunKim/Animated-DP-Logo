@@ -3,5 +3,5 @@ Demonstration of animations using CSS.
 
 ## Screenshoots
 As the mouse hovers over each hole, they increase in size.
-<img src="images/DP-Logo"/>
-<img src="images/DP-Logo-Hover"/>
+<img src="images/DP-Logo.png"/>
+<img src="images/DP-Logo-Hover.png"/>
